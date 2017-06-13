@@ -1,3 +1,5 @@
+#Cron expression 0 11 ? * TUE-FRI * start
+#Cron expression 0 23 ? * MON-FRI * stop
 #startec2->funtionname=start instance-> description=start ec2 instance -> runtime=python2.7
 #def lambda_handler(event, context):
     # TODO implement
